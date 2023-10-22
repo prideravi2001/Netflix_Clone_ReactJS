@@ -1,5 +1,26 @@
-main {
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Bebas+Neue&family=Roboto:ital,wght@0,300;1,400&display=swap');
+*{
+  margin: 0;
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 2px;
+}
+.app{
+  background-color:#111;
+}
+/* Footer */
+footer{
+
+  background-color:#111;
+  color:#fff;
+  padding: 2rem;
   text-align: center;
-  vertical-align: center;
-  line-height: 100vh
+  display:flex;
+  justify-content: space-around;
+    box-shadow: 0 -1px 3px rgb(0 0 0 / 10%), 0 -2px 2px rgb(0 0 0 / 6%), 0 0 2px rgb(0 0 0 / 7%);
+    padding: 24px 0;
+}
+footer>p>a{
+  color:#fff;
+  text-decoration: none;
 }

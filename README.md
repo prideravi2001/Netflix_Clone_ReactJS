@@ -2,7 +2,22 @@
 3e1a5bc5b8b7c8cfe1feafbabd18b42c
 https://developer.themoviedb.org/
 
+## STEPS 
+- Get TMDB Api Key [Done]
+- Create a react app [Done]
+- Setup firebase hosting [NA]
+- Get all the MOVIES [NA]
+- Build Rows [NA]
+- Build the Banner [NA]
+- Build the Nav Bar [NA]
+- Add Trailer popups [NA]
 
+### npm packages
+- [npm i axios](https://www.npmjs.com/package/axios)
+- [npm i react-youtube]
+- [npm i movie-trailer]
+
+* Use Quooca extension for console logs
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
