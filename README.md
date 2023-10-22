@@ -1,3 +1,6 @@
+## Application URL
+[Netflix_Clone_URL](https://netflixclone.ravi1626.repl.co/)
+
 ## API Key 'https://www.themoviedb.org/settings/api'
 3e1a5bc5b8b7c8cfe1feafbabd18b42c
 https://developer.themoviedb.org/
