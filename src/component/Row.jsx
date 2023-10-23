@@ -54,6 +54,9 @@ function Row({title,fetchUrl,isLargeRow}){
         movieTrailer(movie.title || movie.original_name || movie.name || movie.original_title)
         .then((url) => {
           try {
+            if(!url){
+              alert("Video Unavailable Please select any other card from the list to see the Trailer.");
+            }
             console.log('trialerUrl = ',url,'\n',movie.name);
             const urlObject = new URL(url);
             const urlParams = new URLSearchParams(urlObject.search);
