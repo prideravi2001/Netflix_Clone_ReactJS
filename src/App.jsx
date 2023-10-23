@@ -24,6 +24,7 @@ export default function App() {
         <p>Copyright &copy; 2022 - Movie List</p>
        <p>Author: Ravi Kant</p>
        <p><a href="mailto:ravikant4101707@gmail.com">ravikant4101707@gmail.com</a></p>
+       <p>React Based Application</p>
      </footer>
     </>
   )
