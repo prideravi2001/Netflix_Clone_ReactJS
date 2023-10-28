@@ -3,9 +3,11 @@ import Row from './component/Row';
 import requests from './requests';
 import Banner from './component/Banner';
 import Nav from './component/Nav';
+// import TicTacToi from './TicTacToe';
 export default function App() {
   return (
     <>
+      {/* <TicTacToi/> */}
      <div className='app'>
        {/* Nav */}
        <Nav />
