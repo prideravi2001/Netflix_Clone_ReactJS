@@ -1,7 +1,9 @@
 ## Application URL
 [Netflix_Clone_URL](https://netflixclone.ravi1626.repl.co/)
+## Firebase HostesURL
+[Nexflix_Clone_firebase_URL](https://nexflixclone-c79fe.web.app/)
 
-## API Key 'https://www.themoviedb.org/settings/api'
+### API Key 'https://www.themoviedb.org/settings/api'
 3e1a5bc5b8b7c8cfe1feafbabd18b42c
 https://developer.themoviedb.org/
 
